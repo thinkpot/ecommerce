@@ -1,0 +1,63 @@
+/** Your theme modifications here **/
+.centered{
+	text-align: center;
+}
+.price{
+	margin-top: 0 !important;
+}
+#thumbs > div{
+	padding-bottom: 1em;
+}
+.active.active-branch > a{
+	color: #fff !important;
+}
+.error-text{
+	color: #a94442;
+}
+.hidden{
+	display: none;
+}
+#thankyou-div{
+	margin: 4em;
+}
+.tobecopied{
+    cursor: pointer;
+}
+textarea{
+	height: 5em !important;
+}
+.pager > li > a:hover{
+	color: #000;
+}
+.panel-group .panel {
+    margin-bottom: 5px;
+}
+.recent-posts > li{
+	margin-bottom: 5px;
+}
+#post-content{
+	text-align: justify;
+}
+.fa-rotate-25 {
+	color: #41b39c;
+	font-size: x-large;
+   -webkit-transform: rotate(-25deg);
+    -moz-transform: rotate(-25deg);
+    -ms-transform: rotate(-25deg);
+    -o-transform: rotate(-25deg);
+    transform: rotate(-25deg);
+}
+
+#content #details .social p a {
+	width: 38px;
+	height: 38px;
+	line-height: 32px; 
+}
+
+#thankyou-div .social p{
+	position: absolute;
+	top: 5em;
+}
+#content #details .social p a.pinterest {
+    background-color: #b03a35;
+}
